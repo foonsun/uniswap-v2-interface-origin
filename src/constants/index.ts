@@ -1,6 +1,6 @@
-import { ChainId, JSBI, Percent, Token, WETH } from '@im33357/uniswap-v2-sdk'
+import { ChainId, JSBI, Percent, Token, WETH } from '@foonsun/uniswap-v2-sdk'
 import { AbstractConnector } from '@web3-react/abstract-connector'
-import { DeploymentInfo } from '@im33357/uniswap-v2-sdk'
+import { DeploymentInfo } from '@foonsun/uniswap-v2-sdk'
 
 import { fortmatic, injected, portis, walletconnect, walletlink } from '../connectors'
 
